@@ -13,9 +13,9 @@ const Index = () => {
           </Text>
         </Flex>
         <HStack spacing={4}>
-          <Link href="#gallery">Gallery</Link>
-          <Link href="#about">About</Link>
-          <Link href="#contact">Contact</Link>
+          <Link href="/gallery">Gallery</Link>
+          <Link href="/about">About</Link>
+          <Link href="/contact">Contact</Link>
         </HStack>
       </Flex>
 
